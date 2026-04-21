@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Abdul Nafey
+- Roll Number: 160125749032
+- Section: cic
+- GitHub Username:adbulnafey29 
